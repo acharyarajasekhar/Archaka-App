@@ -11,4 +11,4 @@ Here you can find information about our application and its features.
 
 ---
 
-Copyright © [Year] ArchakaApp. All rights reserved.
+Copyright © 2025 ArchakaApp. All rights reserved.
