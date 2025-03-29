@@ -69,6 +69,5 @@ We may update this Privacy Policy from time to time. We will notify you of any m
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Team ArchakaApp
-
-Email: acharyarajasekhar.apps@gmail.com
+* Admin ArchakaApp 
+[acharyarajasekhar.apps@gmail.com](mailto:acharyarajasekhar.apps@gmail.com)

@@ -74,6 +74,5 @@ Please read these Terms of Service ("Terms") carefully before using the Archaka 
 
 If you have any questions about these Terms, please contact us at:
 
-Team ArchakaApp
-
-Email: acharyarajasekhar.apps@gmail.com
+* Admin ArchakaApp 
+[acharyarajasekhar.apps@gmail.com](mailto:acharyarajasekhar.apps@gmail.com)
