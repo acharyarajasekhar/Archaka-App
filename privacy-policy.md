@@ -5,7 +5,7 @@ title: "Privacy Policy"
 
 ## Privacy Policy
 
-**Effective Date: 25th March 2025**
+**Effective Date: March 30, 2025**
 
 This Privacy Policy describes how ArchakaApp ("we," "us," or "our") collects, uses, and shares information when you use the "Archaka App" (the "App").
 

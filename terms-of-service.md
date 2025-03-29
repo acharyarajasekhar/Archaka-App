@@ -5,7 +5,7 @@ title: "Terms of Service"
 
 ## Terms of Service
 
-**Effective Date: 25th March 2025**
+**Effective Date: March 30, 2025**
 
 Please read these Terms of Service ("Terms") carefully before using the Archaka App (the "App"), provided by Acharya Raja Sekhar Brundhavanam ("we," "us," or "our"). By downloading, installing, or using the App, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the App.
 
