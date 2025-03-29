@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Home"
+---
+
 # Welcome to ArchakaApp!
 
 This is the public-facing website for the ArchakaApp project.

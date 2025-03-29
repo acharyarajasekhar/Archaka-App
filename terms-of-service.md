@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Terms of Service"
+---
+
 ## Terms of Service
 
 **Effective Date: 25th March 2025**

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Privacy Policy"
+---
+
 ## Privacy Policy
 
 **Effective Date: 25th March 2025**
